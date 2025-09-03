@@ -2,7 +2,7 @@
     "sponsors": [
         {
             "id": "1",
-            "title": "Name sponsor",
+            "title": "Name sponsor 1",
             "banner" : "https://unsplash.com/photos/m6HrckD4yxw/download?ixid=M3wxMjA3fDB8MXxhbGx8MjB8fHx8fHx8fDE3NTY4NzM4Nzd8&force=true&w=640",
             "url": "https://www.example.com",
             "start": "2025-08-01",
@@ -10,7 +10,7 @@
         },
         {
             "id": "2",
-            "title": "Name sponsor",
+            "title": "Name sponsor 2",
             "banner" : "https://unsplash.com/photos/m6HrckD4yxw/download?ixid=M3wxMjA3fDB8MXxhbGx8MjB8fHx8fHx8fDE3NTY4NzM4Nzd8&force=true&w=640",
             "url": "https://www.example.com",
             "start": "2025-08-01",
@@ -18,7 +18,7 @@
         },
         {
             "id": "3",
-            "title": "Name sponsor",
+            "title": "Name sponsor 3",
             "banner" : "https://unsplash.com/photos/m6HrckD4yxw/download?ixid=M3wxMjA3fDB8MXxhbGx8MjB8fHx8fHx8fDE3NTY4NzM4Nzd8&force=true&w=640",
             "url": "https://www.example.com",
             "start": "2025-08-01",
@@ -26,7 +26,7 @@
         },
         {
             "id": "4",
-            "title": "Name sponsor",
+            "title": "Name sponsor 4",
             "banner" : "https://unsplash.com/photos/m6HrckD4yxw/download?ixid=M3wxMjA3fDB8MXxhbGx8MjB8fHx8fHx8fDE3NTY4NzM4Nzd8&force=true&w=640",
             "url": "https://www.example.com",
             "start": "2025-08-01",
