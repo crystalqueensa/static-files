@@ -13,8 +13,8 @@
             "title": "Name sponsor",
             "banner" : "https://www.example.com/banner.jpg",
             "url": "https://www.example.com",
-            "start": 5,
-            "end": 15
+            "start": "2025-08-01",
+            "end": "2025-09-01"
         }
     ]
 }
